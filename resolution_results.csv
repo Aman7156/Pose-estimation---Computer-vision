@@ -1,0 +1,4 @@
+config,processed_frames,avg_time_per_frame_s,fps,total_person_boxes,pose_hits,miss_rate,avg_keypoint_confidence,scale
+mediapipe_full_scale_1.0,125,0.4223,2.37,1808,1396,0.228,0.795,1.0
+mediapipe_full_scale_0.75,125,0.4129,2.42,1808,1363,0.246,0.796,0.75
+mediapipe_full_scale_0.5,125,0.4001,2.5,1808,1203,0.335,0.8,0.5

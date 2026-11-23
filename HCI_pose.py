@@ -65,7 +65,7 @@ class CentroidTracker:
 
         return self.objects
 
-VIDEO_IN = "/Users/amankumarsingh/SoccerNetData/england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley/clip3.mp4"
+VIDEO_IN = "clip3.mp4"
 VIDEO_OUT = "output_pose.mp4"
 CSV_OUT = "keypoints.csv"
 STATS_OUT = "statistics.csv"
